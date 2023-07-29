@@ -21,7 +21,7 @@ export default function Messenger() {
   const scrollRef = useRef();
 
   useEffect(() => {
-    socket.current = io("ws://social-media-clone-socket-io.vercel.app");
+    socket.current = io("https://social-media-clone-socket-io.vercel.app");
     socket.current.on("getMessage", (data) => {
       setArrivalMessage({
         sender: data.senderId,
