@@ -1,0 +1,23 @@
+.chat-container{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 0px auto;
+    align-items: center;
+}
+
+.chat-heading{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.chat-gif{
+  height: 400px;
+}
+
+.chat-button{
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+}
+
