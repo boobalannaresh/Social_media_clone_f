@@ -4,4 +4,4 @@
 
  /* Deploy host */
 
- export const API = "https://social-media-clone-backend-f6tn.onrender.com"
+ export const API = "https://social-media-clone-backend-f6tn.onrender.com";
