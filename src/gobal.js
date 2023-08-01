@@ -4,4 +4,4 @@
 
  /* Deploy host */
 
- export const API = "https://social-media-clone-backend-plum.vercel.app"
+ export const API = "https://social-media-clone-backend-f6tn.onrender.com"
